@@ -1,0 +1,11 @@
+httpx
+aiofiles
+bs4
+logging
+playwright
+playwright_stealth
+typing
+colorama
+argparse
+json
+asyncio
